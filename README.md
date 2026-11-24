@@ -5,7 +5,7 @@
 
 Audit tecnico per file robots.txt, verifica della corretta accessibilita dei motori di ricerca, gestione dei bot IA e individuazione di blocchi errati.
 
-Sviluppato e gestito dalla divisione di scansione web e infrastrutture di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di scansione web e infrastrutture di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python robots_validator.py https://esempio.it -json
 Per simulare l'accesso dei bot e verificare i file robots.txt:
 
 * **Verificatore di Robots.txt Ufficiale**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza in Scansione Web e SEO Tecnico
 
-Per progetti avanzati di governance dei bot conformi a Standard W3C e Protocollo di Esclusione Robot, contattare **TAVARDT Italia**.
+Per progetti avanzati di governance dei bot conformi a Standard W3C e Protocollo di Esclusione Robot, contattare **TAVARDT**.
 
 ***
 
