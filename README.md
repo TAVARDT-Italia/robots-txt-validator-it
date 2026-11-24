@@ -1,4 +1,4 @@
-# Verificatore di Robots.txt e Direttive di Scansione | TAVARDT Italia
+# Verificatore di Robots.txt e Direttive di Scansione
 
 [![Verificatore Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/it/verificatore-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Per simulare l'accesso dei bot e verificare i file robots.txt:
 ## Consulenza in Scansione Web e SEO Tecnico
 
 Per progetti avanzati di governance dei bot conformi a Standard W3C e Protocollo di Esclusione Robot, contattare **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
