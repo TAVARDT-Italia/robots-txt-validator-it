@@ -2,6 +2,7 @@
 
 [![Verificatore Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/it/verificatore-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit tecnico per file robots.txt, verifica della corretta accessibilita dei motori di ricerca, gestione dei bot IA e individuazione di blocchi errati.
 
@@ -57,6 +58,11 @@ Per progetti avanzati di governance dei bot conformi a Standard W3C e Protocollo
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maiores informações, consultare il file [LICENSE](LICENSE).
 
 ***
 
